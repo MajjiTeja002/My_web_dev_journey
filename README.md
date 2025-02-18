@@ -40,6 +40,7 @@ If you're interested in following my journey or collaborating, feel free to:
 I'm always open to connecting with fellow developers! You can find me on:
 
 - [LinkedIn](www.linkedin.com/in/majji-teja-36778124a)
+- [Mail](majjiteja22@gmail.com)
 
 Thank you for visiting my repository! Let's learn and grow together in the world of web development! 🚀
 
